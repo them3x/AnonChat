@@ -40,5 +40,5 @@ Criando tabela para os chats
 
 #### Configurando
 
-- Edit file: database.php.
-- Siga as variaveis adicionando o usuario e senha do MySQL
+- Edite o arquivo: database.php. (Siga as variaveis adicionando o usuario e senha do MySQL)
+- Edite o arquivo: encrypt.php. (Altere aS variaveis [ $key ] definindo uma chave para criação de cookies)
