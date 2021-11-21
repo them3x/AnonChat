@@ -8,7 +8,8 @@ Um pagina web feita para funcionar na rede TOR, sem javascript, funcionando apen
 -----------
 
 
-<br><br><br><br><br><br>
+<br>
+
 ## Dependencias
 - SQLDatabase (MySQL, Maria DB, etc..)
 - PHP
