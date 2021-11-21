@@ -1,0 +1,29 @@
+.chatbox {
+  position:relative;
+  height:100%;
+  width:1139px;
+  float:right;
+  border:4px solid green;
+}
+.send {
+  height:50px;
+  width:100px;
+}
+.sms-box {
+  background:#B4F2F7;
+  width:100%;
+  display:block;
+  clear:both;
+  position:absolute;
+  bottom:0;
+}
+.sms-send {
+  padding:0px;
+  width:450px;
+  height:50px;
+  border-radius:5px;
+  border:1px solid black;
+  font-family:sans-serif;
+  font-weight:bold;
+  color:grey;
+}
